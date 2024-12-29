@@ -11,7 +11,7 @@
 - 🌱 I’m currently learning **React & Redux**  
 - 💬 Ask me about **MERN**  
 - 📫 How to reach me **ishup6321@gmail.com**  
-- ⚡ Fun fact **I like to build things, and here I am.**
+- ⚡ Fun fact **I like astrology.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
