@@ -10,7 +10,7 @@
 - 🔭 I’m currently working on **Personal Portfolio App**  
 - 🌱 I’m currently learning **AI integration with full-stack apps**  
 - 💬 Ask me about **MERN**  
-- 📫 How to reach me **ishup6321@gmail.com**  
+- 📫 How to reach me **ishitapatidar2704@gmail.com**  
 - ⚡ Fun fact **I like astrology.**
 
 <h3 align="left">Connect with me:</h3>
